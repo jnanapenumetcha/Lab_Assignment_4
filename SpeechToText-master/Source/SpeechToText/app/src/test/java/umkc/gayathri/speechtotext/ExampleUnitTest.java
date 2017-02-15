@@ -1,4 +1,4 @@
-package umkc.sindhu.speechtotext;
+package umkc.gayathri.speechtotext;
 
 import org.junit.Test;
 
